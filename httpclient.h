@@ -1,7 +1,7 @@
 #ifndef HTTPCLIENT_H
 #define HTTPCLIENT_H
 
-#include <QString>
+
 
 #include <QObject>
 #include <QNetworkReply>
